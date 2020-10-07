@@ -6,4 +6,4 @@ Simsimi(심심이) Project
 
 
 #### AI Web service 
-* (1) [flask-pytorch-toy-project](https://github.com/DoranLyong/flask-pytorch-toy-project) / 간단하게 나만의 AI 웹
+* (1) [flask-pytorch-toy-project](https://github.com/DoranLyong/flask-pytorch-toy-project) / 간단한 나만의 AI 이미지 웹서비스 만들기 
