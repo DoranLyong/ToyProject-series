@@ -13,3 +13,7 @@ Simsimi(심심이) Project
 
 #### Computer Vision for Astronomy 
 * (1) [참고 자료](https://foxrow.com/assets/toinfinity.pdf)
+
+
+
+#### GAN for everything 
