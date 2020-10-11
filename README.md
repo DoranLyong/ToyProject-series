@@ -17,3 +17,4 @@ Simsimi(심심이) Project
 
 
 #### GAN for everything 
+* (1) [Pytorch GAN for Art](https://github.com/DoranLyong/Pytorch-GAN-for-Art/blob/main/README.md) / 창의력을 키우는 GAN 연습 
