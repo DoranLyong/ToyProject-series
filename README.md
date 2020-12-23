@@ -23,3 +23,8 @@ Simsimi(심심이) Project
 
 #### Image processing 
 * (1) [Image Processing from Scratch](https://github.com/DoranLyong/Image-Processing-from-Scratch) / 라이브러리 없이 이미지 처리 알고리즘 구현하기 
+
+
+
+#### Machine Learning Coding 
+* (1) [Binary Classification Using A Perceptron](https://github.com/DoranLyong/Binary-Classification-Using-A-Perceptron) / 파이토치를 활용한 이진분류기 연습 코드 
